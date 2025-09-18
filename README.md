@@ -1,1 +1,2 @@
 # Analysis-of-Automobile-MPG-
+This project presents a statistical analysis of the Automobile MPG dataset. It includes data collection, visualization of distributions, correlation studies, regression modeling, error analysis, residual plots, and standardization using Z-scores. A comparison between the initial regression model and the Z-score standardized model is also provided, highlighting insights into factors influencing vehicle fuel efficiency.
